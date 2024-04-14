@@ -92,7 +92,7 @@
    "type":"https"}},"test_keys":{
    "agent":"redirect",
    "client_resolver":"202.58.96.194",
-   "retries":null,"
+   "retries":null,
    "socksproxy":null,
    "network_events":null,
    "tls_handshakes":null,
@@ -242,7 +242,9 @@
   "test_name":"web_connectivity",
   "test_runtime":5.108537923,
   "test_start_time":"2024-04-12 08:35:04",
-  "test_version":"0.4.3"}":null,
+  "test_version":"0.4.3",
+  }
+  ":null,
   "control":{"tcp_connect":{},
   "quic_handshake":{},
   "http_request":{"body_length":-1,
