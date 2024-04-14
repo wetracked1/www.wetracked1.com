@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://www.wetracked1.com/js/main.js"></script>
+<script type="text/javascript" src="http://www.wetracked1.com/js/index.js"></script>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org",
