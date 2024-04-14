@@ -12,7 +12,7 @@
       "url": "http://www.wetracked1.com"/>
   },
    </script> 
- <script type="text/JavaScript">
+ <script type="text/JavaScript"/>
   function showpageview(auto) {
        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript"));               
@@ -21,7 +21,7 @@
           pageTracker._trackPageview();
      }
  </script>
-  <script type="text/javascript">
+  <script type="text/javascript"/>
  new PerformanceObserver((entryList) => {
   const entries = entryList.getEntries();
 
