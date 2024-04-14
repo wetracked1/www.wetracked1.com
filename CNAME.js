@@ -3,8 +3,8 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "name": "wetracked1.com",
-      "startDate": "2024-07-21T19:00:00-05:00",
-      "endDate": "2024-07-21T23:00-05:00",
+      "startDate": "2024-14-21T19:0,0,0,1,2024-04-12,1,KH",
+      "endDate": "2024-14-21T23:0,0,0,1,2024-04-12,1,KH",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
       "location": {
